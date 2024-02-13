@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '56423'
     url: http://www.gutenberg.org/2009/agents/56423
     wikipedia: https://en.wikipedia.org/wiki/Johann_Reinhold_Forster
+covers:
+- cover_type: archival
+  image_path: 72737-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Kalm, Pehr
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56243
     wikipedia: https://en.wikipedia.org/wiki/Pehr_Kalm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72737#Travels-into-North-America-Volume-3-of-3
 gutenberg_issued: '2024-01-17'
 gutenberg_type: Text
 identifiers:
